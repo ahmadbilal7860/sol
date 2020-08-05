@@ -1,0 +1,92 @@
+/*For Desktop Devices*/
+@media(min-width: 992px){
+
+p{
+
+	width: 30%;
+	border: 1px solid black;
+	float: left;
+
+
+	padding: 10px;
+	margin:  10px;
+	height: 100px;
+	padding-top: 21px;
+
+}
+
+
+
+}
+
+
+/*For Tablet Devices*/
+@media(min-width:768px) and (max-width: 991px){
+
+
+}
+
+
+
+
+}
+
+
+
+/*For Mobile Devices*/
+
+@media(min-width: 767px){
+
+}
+
+
+div#cont{
+	position: relative;
+	top: 50px;
+}
+
+#para1{
+text-align: left;
+position: relative;
+background-color: grey;
+}
+#para2{
+text-align: left;
+position: relative;
+background-color: grey;
+}
+#para3{
+text-align: left;
+position: relative;
+background-color: grey;
+}
+.b1{
+  background-color: #E9967A;
+  border:none; ;
+  color: black;
+  padding: 20px:;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 16px;
+}
+.b2{
+  background-color: #B22222;
+  border:none; ;
+  color: black;
+  padding: 20px:;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 16px;
+}
+.b3{
+  background-color: #F0E68C;
+  border:none; ;
+  color: black;
+  padding: 20px:;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 16px;
+}
